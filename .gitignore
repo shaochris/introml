@@ -2,6 +2,6 @@
 .vscode/
 .ipynb_checkpoints/
 *.pickle
-lectures/
-prob/
+*.p
+*.csv
 online/
