@@ -58,7 +58,8 @@ to documents that don't match the number of the unit.  We will fix these soon!
     * Lecture:  Model selection [[pdf]](./lectures/Lect04_ModelSelection.pdf)
      [[Powerpoint]](./lectures/Lect04_ModelSelection.pptx)    
     * [Lecture videos](./unit04_model_sel/online/readme.md)     
-    * [Demo:  Polynomial order selection with cross-validation](./unit04_model_sel/demo_polyfit.ipynb)
+    * [Demo 1:  Polynomial order selection with cross-validation](./unit04_model_sel/demo_polyfit.ipynb)
+    * [Demo 2:  Feature transforms and model validation](./unit04_model_sel/demo2_transform.ipynb)
     * [Lab: Neural decoding motor cortex signals](./unit04_model_sel/lab_neural_partial.ipynb)          
     * Problems [[pdf]](./unit04_model_sel/prob/prob_model_sel.pdf) [[Latex]](./unit03_model_sel/hw/hw03_model_sel.tex)    
 * Unit 5:  Regularization and LASSO
@@ -82,6 +83,7 @@ to documents that don't match the number of the unit.  We will fix these soon!
     * Lecture:  Nonlinear optimization and gradient descent
     [[pdf]](./lectures/Lect07_Optim.pdf)
     [[Powerpoint]](./lectures/Lect07_Optim.pptx)         
+    * [Lecture videos](./unit07_optim/online/readme.md)      
     * [Demo 1:  Computing gradients](./unit07_optim/demo1_computing_gradients.ipynb)
     * [Demo 2:  Simple gradient descent optimization](./unit07_optim/demo2_grad_descent.ipynb)    
     * [Lab: Nonlinear least squares material modeling](./unit07_optim/lab_nlls_partial.ipynb)
